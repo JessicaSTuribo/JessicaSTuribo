@@ -14,23 +14,40 @@ Atualmente sigo em constante evolução, explorando novas tecnologias, desenvolv
 
 Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo soluções que gerem impacto positivo, sempre guiada pela curiosidade, pela dedicação e pela vontade de fazer a diferença através da tecnologia.
 <p align="left">
-  <a href="https://github.com/JessicaSTMatos">
-    <img src="https://img.shields.io/github/followers/JessicaSTMatos?label=Seguidores&style=for-the-badge&color=236ad3" />
-  </a>
 
-  <a href="https://github.com/JessicaSTMatos?tab=repositories">
-    <img src="https://img.shields.io/github/stars/JessicaSTMatos?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=55960c&label=Stars" />
-  </a>
+    <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
+        <img 
+            alt="linkedin" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Jéssica%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 
-  <a href="https://github.com/JessicaSTMatos">
-    <img src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=orange&label=Visualizações" />
-  </a>
+    <a href="https://github.com/JessicaSTMatos">
+        <img 
+            alt="profile views" 
+            title="Visualizações do perfil" 
+            src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=E1AD0E&label=Visualizações"
+        />
+    </a>
 
-  <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+    <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+
+    <a href="https://github.com/JessicaSTMatos?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
 </p>
-
 ---
 
 ## 🚀 O que eu gosto de construir
