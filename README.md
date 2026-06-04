@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Olá, eu sou a Jéssica 🌸
 
-**'Desenvolvedora FullStack'**
+**`Desenvolvedora FullStack`**
 
 Me chamo Jéssica dos Santos Turibo, sou Analista Técnica no Banco do Brasil, estudante apaixonada por tecnologia e desenvolvedora por vocação.
 
