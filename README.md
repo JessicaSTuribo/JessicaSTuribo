@@ -16,21 +16,23 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
-    <img src="https://img.shields.io/badge/LinkedIn-J%C3%A9ssica%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn"
+  src="https://custom-icon-badges.demolab.com/badge/LinkedIn-J%C3%A9ssica%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba"/>
+</a>
+
+<a href="https://github.com/JessicaSTMatos">
+  <img alt="Views" title="Visualizações do perfil"
+  src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=E1AD0E&label=VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJessicaSTMatos.github.profile%2Fviews&style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/>
 </a>
 
 <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+  <img alt="Estrelas" title="Total de estrelas GitHub"
+  src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"/>
 </a>
 
 <a href="https://github.com/JessicaSTMatos?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-</a>
-<a href="https://github.com/JessicaSTMatos">
-    <img 
-        alt="Visualizações do perfil" 
-        src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=C79600&label=VIEWS"
-    />
+  <img alt="Seguidores" title="Me siga no GitHub"
+  src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
 </a>
 <a href="https://www.bb.com.br">
     <img 
