@@ -38,7 +38,7 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
   <img
     alt="Banco do Brasil"
     title="Analista Técnica no Banco do Brasil"
-    src="https://custom-icon-badges.demolab.com/badge/Banco%20do%20Brasil-Analista%20T%C3%A9cnica-F7D117?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=D4B000"
+    src="https://img.shields.io/badge/Banco%20do%20Brasil-Analista%20T%C3%A9cnica-F7D117?style=for-the-badge&logoColor=black"
   />
 </a>
 </p>
