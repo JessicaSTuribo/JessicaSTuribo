@@ -26,6 +26,12 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 <a href="https://github.com/JessicaSTMatos?tab=followers">
     <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
 </a>
+<a href="https://github.com/JessicaSTMatos">
+    <img 
+        alt="Visualizações do perfil" 
+        src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=C79600&label=VIEWS"
+    />
+</a>
 <a href="https://www.bb.com.br">
     <img 
         alt="Banco do Brasil" 
@@ -33,7 +39,6 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
         src="https://img.shields.io/badge/Banco%20do%20Brasil-Analista%20Técnica-F7D117?style=for-the-badge&logoColor=black"
     />
 </a>
-
 </p>
 ---
 
