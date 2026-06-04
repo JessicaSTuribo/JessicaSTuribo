@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Olá, eu sou a Jéssica 🌸
 
-### Analista Técnica • Desenvolvedora Full Stack • Data Analytics • IA & Automação
+### Analista Técnica • Desenvolvimento Web • Data Analytics • IA & Automação
 
 Me chamo **Jéssica dos Santos Turibo de Matos** e sou Analista Técnica no Banco do Brasil, apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que geram impacto real.
 
