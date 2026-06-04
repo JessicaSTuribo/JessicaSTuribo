@@ -14,17 +14,19 @@ Atualmente sigo em constante evolução, explorando novas tecnologias, desenvolv
 
 Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo soluções que gerem impacto positivo, sempre guiada pela curiosidade, pela dedicação e pela vontade de fazer a diferença através da tecnologia.
 <p align="left">
-    <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
-        <img alt="linkedin" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Jéssica%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
 
-    <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-    </a>
+<a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
+    <img src="https://img.shields.io/badge/LinkedIn-J%C3%A9ssica%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-    <a href="https://github.com/JessicaSTMatos?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
+<a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+</a>
+
+<a href="https://github.com/JessicaSTMatos?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+</a>
+
 </p>
 ---
 
