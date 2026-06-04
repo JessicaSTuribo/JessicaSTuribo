@@ -21,8 +21,7 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 </a>
 
 <a href="https://github.com/JessicaSTMatos">
-  <img alt="Views" title="Visualizações do perfil"
-  src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=E1AD0E&label=VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJessicaSTMatos.github.profile%2Fviews&style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/>
+  <img src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=C79600&label=VIEWS"/>
 </a>
 
 <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
@@ -33,13 +32,6 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 <a href="https://github.com/JessicaSTMatos?tab=followers">
   <img alt="Seguidores" title="Me siga no GitHub"
   src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
-</a>
-<a href="https://www.bb.com.br">
-  <img
-    alt="Banco do Brasil"
-    title="Analista Técnica no Banco do Brasil"
-    src="https://img.shields.io/badge/Banco%20do%20Brasil-Analista%20T%C3%A9cnica-F7D117?style=for-the-badge&logoColor=black"
-  />
 </a>
 </p>
 ---
