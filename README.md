@@ -21,7 +21,11 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 </a>
 
 <a href="https://github.com/JessicaSTMatos">
-  <img src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=C79600&label=VIEWS"/>
+  <img
+    alt="Views"
+    title="Visualizações do perfil"
+    src="https://custom-icon-badges.demolab.com/badge/VIEWS-4-C79600?style=for-the-badge&logo=eye&logoColor=white&labelColor=A57D00"
+  />
 </a>
 
 <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
