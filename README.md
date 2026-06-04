@@ -1,18 +1,15 @@
 # 👩🏽‍💻 Olá, eu sou a Jéssica 🌸
 
-**`Desenvolvedora FullStack`**
+### Analista Técnica • Desenvolvedora Full Stack • Data Analytics • IA & Automação
 
-Me chamo Jéssica dos Santos Turibo, sou Analista Técnica no Banco do Brasil, estudante apaixonada por tecnologia e desenvolvedora por vocação.
+Me chamo **Jéssica dos Santos Turibo de Matos** e sou Analista Técnica no Banco do Brasil, apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que geram impacto real.
 
-Minha trajetória profissional começou muito antes da programação. Ao longo dos anos, tive experiências em áreas como química, microbiologia, operações administrativas, atendimento e gestão financeira. Cada etapa contribuiu para desenvolver habilidades que hoje considero essenciais: disciplina, pensamento analítico, capacidade de adaptação e aprendizado contínuo.
+Minha trajetória profissional começou muito antes da programação. Ao longo dos anos atuei em áreas como química, microbiologia, operações administrativas, atendimento e gestão financeira. Essas experiências contribuíram para desenvolver competências que carrego até hoje: pensamento analítico, disciplina, adaptabilidade e foco na resolução de problemas.
 
-Foi através da curiosidade e da vontade de compreender como a tecnologia pode transformar processos e facilitar a vida das pessoas que encontrei minha verdadeira paixão. O que começou como um interesse por sistemas e desenvolvimento evoluiu para uma jornada constante de estudos, projetos e aperfeiçoamento profissional.
+Foi através da curiosidade e da busca constante por evolução que encontrei na tecnologia uma forma de unir lógica, criatividade e propósito. Desde então venho construindo conhecimentos em desenvolvimento de sistemas, análise de dados, computação em nuvem, inteligência artificial e automação de processos.
 
-Enquanto construía minha carreira no ambiente corporativo, também me dedicava ao aprendizado de desenvolvimento de sistemas, análise de dados, inteligência artificial, automação de processos e soluções digitais. Essa combinação entre experiência de negócios e conhecimento tecnológico me permite enxergar os desafios de forma ampla, buscando soluções que sejam não apenas técnicas, mas também úteis e estratégicas.
+Atualmente desenvolvo projetos que conectam **Desenvolvimento Web**, **Data Analytics**, **Cloud Computing**, **Automação** e **Inteligência Artificial**, buscando sempre criar soluções úteis, eficientes e escaláveis.
 
-Atualmente sigo em constante evolução, explorando novas tecnologias, desenvolvendo projetos próprios e ampliando meus conhecimentos em desenvolvimento web, ciência de dados, automação e inteligência artificial. Acredito que a tecnologia vai muito além do código: ela é uma ferramenta capaz de conectar pessoas, gerar oportunidades e transformar ideias em realidade.
-
-Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo soluções que gerem impacto positivo, sempre guiada pela curiosidade, pela dedicação e pela vontade de fazer a diferença através da tecnologia.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
@@ -21,11 +18,8 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 </a>
 
 <a href="https://github.com/JessicaSTMatos">
-  <img
-    alt="Views"
-    title="Visualizações do perfil"
-    src="https://custom-icon-badges.demolab.com/badge/VIEWS-4-C79600?style=for-the-badge&logo=eye&logoColor=white&labelColor=A57D00"
-  />
+  <img alt="Views" title="Visualizações do perfil"
+  src="https://custom-icon-badges.demolab.com/badge/VIEWS-4-C79600?style=for-the-badge&logo=eye&logoColor=white&labelColor=A57D00"/>
 </a>
 
 <a href="https://github.com/JessicaSTMatos?tab=repositories&sort=stargazers">
@@ -37,121 +31,138 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
   <img alt="Seguidores" title="Me siga no GitHub"
   src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
 </a>
+
 <a href="https://www.bb.com.br">
-  <img
-    alt="Banco do Brasil"
-    title="Analista Técnica no Banco do Brasil"
-    src="https://custom-icon-badges.demolab.com/badge/Banco%20do%20Brasil-Analista%20Técnica-F7D117?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=D4B000"
-  />
+  <img alt="Banco do Brasil"
+  title="Analista Técnica no Banco do Brasil"
+  src="https://custom-icon-badges.demolab.com/badge/Banco%20do%20Brasil-Analista%20Técnica-F7D117?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=D4B000"/>
 </a>
+
 </p>
----
-
-## 🚀 O que eu gosto de construir
-
-* Sites institucionais
-* Landing Pages
-* Sistemas Web
-* Dashboards e Business Intelligence
-* Automação de Processos
-* Agentes de Inteligência Artificial
-* Integrações com APIs
-* Soluções que simplificam tarefas do dia a dia
 
 ---
 
-### 💻 Desenvolvimento
+## 🚀 Áreas de Interesse
 
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+🔹 Desenvolvimento Web
+
+🔹 Análise de Dados e Business Intelligence
+
+🔹 Inteligência Artificial
+
+🔹 Automação de Processos
+
+🔹 Cloud Computing
+
+🔹 Sistemas Corporativos
+
+🔹 APIs e Integrações
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### Desenvolvimento
+
+<img align="left" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="WordPress" title="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="jQuery" title="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br><br>
 
-### 📊 Dados e Analytics
+### Dados e Analytics
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Apache Spark" title="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
-
-<br><br>
-
-### ☁️ Cloud
-
-<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="NumPy" title="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Apache Spark" title="Apache Spark" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png"/>
 
 <br><br>
 
-### 🤖 Automação e IA
+### Cloud & Infraestrutura
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="AWS" title="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<br><br>
+
+### 🤖 Automação & IA
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-00C853?style=for-the-badge)
 ![APIs REST](https://img.shields.io/badge/APIs_REST-FF6F00?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-1976D2?style=for-the-badge)
 ![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-8E24AA?style=for-the-badge)
 
+---
 
-<br><br>
-
-
-
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
 🎓 Contabilidade e Gestão Financeira
-🎓 Gestão de TI e Filosofia em andamento
 
-📚 Pós-graduações em:
+🎓 Gestão da Tecnologia da Informação (em andamento)
 
-* Auditoria e Controladoria
-* Data Analytics
-* Análise de Sistemas
-* Business Intelligence
-* Administração e Negócios
-* Desenvolvimento Web Full Stack
-* Desenvolvimento de Sistemas com Java
+🎓 Filosofia (em andamento)
+
+### Pós-graduações
+
+📚 Auditoria e Controladoria
+
+📚 Data Analytics
+
+📚 Análise de Sistemas
+
+📚 Business Intelligence
+
+📚 Administração e Negócios
+
+📚 Desenvolvimento Web Full Stack
+
+📚 Desenvolvimento de Sistemas com Java
 
 ---
 
 ## 🌱 Atualmente estudando
 
-* Inteligência Artificial
+* Inteligência Artificial Generativa
 * Arquitetura de Sistemas
-* Desenvolvimento Full Stack
 * Agentes Inteligentes
 * Automação com N8N
 * Cloud Computing
+* Engenharia de Prompt
+* Integrações e APIs
 
 ---
 
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSTMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JessicaSTMatos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSTMatos&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSTMatos&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JessicaSTMatos&theme=tokyonight"/>
 </p>
 
 ---
 
-## ✨ Um pouco da minha filosofia
+## ✨ Minha filosofia
 
-Acredito que a tecnologia tem o poder de transformar vidas quando é construída com propósito.
+Acredito que a tecnologia é uma ferramenta poderosa para conectar pessoas, resolver problemas e criar oportunidades.
 
-Mais importante do que aprender uma nova linguagem é continuar aprendendo, evoluindo e mantendo a curiosidade viva.
+Mais importante do que dominar uma tecnologia específica é manter a curiosidade, a capacidade de aprender e a disposição para evoluir continuamente.
 
-Estou sempre aberta a trocar experiências, aprender algo novo e construir projetos que façam sentido.
-
-🌸 Bem-vindo(a) ao meu perfil.
+🌸 Seja muito bem-vindo(a) ao meu perfil.
