@@ -81,6 +81,7 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 <img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="Apache Spark" title="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/>
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
 
 <br><br>
 
