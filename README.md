@@ -1,12 +1,35 @@
-# Olá, eu sou a Jéssica 🌸
+# 👩🏽‍💻 Olá, eu sou a Jéssica 🌸
 
-Analista Técnica no Banco do Brasil, estudante apaixonada por tecnologia e desenvolvedora por vocação.
+**'Desenvolvedora FullStack'**
 
-Minha trajetória profissional começou muito antes da programação. Passei por áreas como química, microbiologia, operações administrativas e financeira até encontrar na tecnologia uma forma de unir lógica, criatividade e propósito.
+Me chamo Jéssica dos Santos Turibo, sou Analista Técnica no Banco do Brasil, estudante apaixonada por tecnologia e desenvolvedora por vocação.
 
-Ao longo dos anos construí uma sólida experiência corporativa, enquanto desenvolvia paralelamente minhas habilidades em desenvolvimento de sistemas, análise de dados, inteligência artificial e automação de processos.
+Minha trajetória profissional começou muito antes da programação. Ao longo dos anos, tive experiências em áreas como química, microbiologia, operações administrativas, atendimento e gestão financeira. Cada etapa contribuiu para desenvolver habilidades que hoje considero essenciais: disciplina, pensamento analítico, capacidade de adaptação e aprendizado contínuo.
 
-Atualmente estou em constante evolução, estudando novas tecnologias e criando projetos que unem desenvolvimento web, dados e inteligência artificial.
+Foi através da curiosidade e da vontade de compreender como a tecnologia pode transformar processos e facilitar a vida das pessoas que encontrei minha verdadeira paixão. O que começou como um interesse por sistemas e desenvolvimento evoluiu para uma jornada constante de estudos, projetos e aperfeiçoamento profissional.
+
+Enquanto construía minha carreira no ambiente corporativo, também me dedicava ao aprendizado de desenvolvimento de sistemas, análise de dados, inteligência artificial, automação de processos e soluções digitais. Essa combinação entre experiência de negócios e conhecimento tecnológico me permite enxergar os desafios de forma ampla, buscando soluções que sejam não apenas técnicas, mas também úteis e estratégicas.
+
+Atualmente sigo em constante evolução, explorando novas tecnologias, desenvolvendo projetos próprios e ampliando meus conhecimentos em desenvolvimento web, ciência de dados, automação e inteligência artificial. Acredito que a tecnologia vai muito além do código: ela é uma ferramenta capaz de conectar pessoas, gerar oportunidades e transformar ideias em realidade.
+
+Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo soluções que gerem impacto positivo, sempre guiada pela curiosidade, pela dedicação e pela vontade de fazer a diferença através da tecnologia.
+<p align="left">
+  <a href="https://github.com/JessicaSTMatos">
+    <img src="https://img.shields.io/github/followers/JessicaSTMatos?label=Seguidores&style=for-the-badge&color=236ad3" />
+  </a>
+
+  <a href="https://github.com/JessicaSTMatos?tab=repositories">
+    <img src="https://img.shields.io/github/stars/JessicaSTMatos?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=55960c&label=Stars" />
+  </a>
+
+  <a href="https://github.com/JessicaSTMatos">
+    <img src="https://komarev.com/ghpvc/?username=JessicaSTMatos&style=for-the-badge&color=orange&label=Visualizações" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jessica-dos-santos-turibo-de-matos">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
