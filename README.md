@@ -89,10 +89,12 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 ## 🎓 Formação
 
 🎓 Contabilidade e Gestão Financeira
+🎓 Gestão de TI e Filosofia em andamento
 
 📚 Pós-graduações em:
 
 * Auditoria e Controladoria
+* Data Analytics
 * Análise de Sistemas
 * Business Intelligence
 * Administração e Negócios
