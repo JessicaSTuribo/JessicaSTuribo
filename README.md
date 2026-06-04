@@ -37,6 +37,13 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
   <img alt="Seguidores" title="Me siga no GitHub"
   src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
 </a>
+<a href="https://www.bb.com.br">
+  <img
+    alt="Banco do Brasil"
+    title="Analista Técnica no Banco do Brasil"
+    src="https://custom-icon-badges.demolab.com/badge/Banco%20do%20Brasil-Analista%20Técnica-F7D117?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=D4B000"
+  />
+</a>
 </p>
 ---
 
