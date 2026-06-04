@@ -147,11 +147,8 @@ Atualmente desenvolvo projetos que conectam **Desenvolvimento Web**, **Data Anal
 
 ## 📈 Estatísticas GitHub
 
-## 📈 Estatísticas GitHub
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JessicaSTMatos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSTMatos&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JessicaSTMatos&theme=tokyonight&hide_border=false"/>
 </p>
 
 <p align="center">
