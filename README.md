@@ -96,12 +96,13 @@ Meu objetivo é continuar aprendendo, compartilhando conhecimento e construindo 
 
 ### 🤖 Automação e IA
 
-🔹 N8N
-🔹 OpenAI
-🔹 Evolution API
-🔹 APIs REST
-🔹 Webhooks
-🔹 Agentes de IA
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-00C853?style=for-the-badge)
+![APIs REST](https://img.shields.io/badge/APIs_REST-FF6F00?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-1976D2?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-8E24AA?style=for-the-badge)
+
 
 <br><br>
 
