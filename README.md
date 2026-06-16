@@ -27,11 +27,6 @@ Atualmente desenvolvo projetos que conectam **Desenvolvimento Web**, **Data Anal
   src="https://custom-icon-badges.demolab.com/github/stars/JessicaSTMatos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"/>
 </a>
 
-<a href="https://github.com/JessicaSTMatos?tab=followers">
-  <img alt="Seguidores" title="Me siga no GitHub"
-  src="https://custom-icon-badges.demolab.com/github/followers/JessicaSTMatos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>
-</a>
-
 <a href="https://www.bb.com.br">
   <img alt="Banco do Brasil"
   title="Analista Técnica no Banco do Brasil"
