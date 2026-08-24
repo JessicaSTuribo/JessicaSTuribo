@@ -2,7 +2,7 @@
 
 ### Analista Técnica • Desenvolvimento Web • Data Analytics • IA & Automação
 
-Me chamo **Jéssica dos Santos Turibo de Matos** e sou Analista Técnica no Banco do Brasil, apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que geram impacto real.
+Me chamo **Jéssica dos Santos Turibo**, apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções que geram impacto real.
 
 Minha trajetória profissional começou muito antes da programação. Ao longo dos anos atuei em áreas como química, microbiologia, operações administrativas, atendimento e gestão financeira. Essas experiências contribuíram para desenvolver competências que carrego até hoje: pensamento analítico, disciplina, adaptabilidade e foco na resolução de problemas.
 
@@ -137,18 +137,6 @@ Atualmente desenvolvo projetos que conectam **Desenvolvimento Web**, **Data Anal
 * Cloud Computing
 * Engenharia de Prompt
 * Integrações e APIs
-
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JessicaSTMatos&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JessicaSTMatos&theme=tokyonight" />
-</p>
 
 ---
 
